@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Cassie's Blog
 
 You can use the [editor on GitHub](https://github.com/Djoak/tmp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
